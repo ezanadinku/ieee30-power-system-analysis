@@ -1,0 +1,6 @@
+*.m text eol=lf
+*.md text eol=lf
+*.png binary
+*.docx binary
+*.fig binary
+*.slx binary

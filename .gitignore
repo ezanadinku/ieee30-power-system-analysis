@@ -1,0 +1,20 @@
+# MATLAB temporary and generated files
+*.asv
+*.autosave
+*.m~
+*.slxc
+slprj/
+codegen/
+
+# Simulink cache / generated artifacts
+*.slxc
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local scratch files
+scratch/
+temp/
